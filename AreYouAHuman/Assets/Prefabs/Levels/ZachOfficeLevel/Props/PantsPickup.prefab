@@ -171,7 +171,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25580a82c33154adb921f775810532ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPosition: 1
+  itemPosition: 4
   defaultSprite: {fileID: 21300000, guid: de4edd12a2aa34613a806d9a1280ffe4, type: 3}
-  poseSprite: {fileID: 0}
   alreadyAdded: 0
