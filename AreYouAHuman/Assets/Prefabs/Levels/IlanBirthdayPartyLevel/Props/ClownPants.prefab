@@ -10,7 +10,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1118311271542133695, guid: 0b7762565830a41719e169667847e6db, type: 3}
       propertyPath: m_Name
-      value: PantsPickup Variant
+      value: ClownPants
       objectReference: {fileID: 0}
     - target: {fileID: 3870065485254825142, guid: 0b7762565830a41719e169667847e6db, type: 3}
       propertyPath: m_LocalScale.x
